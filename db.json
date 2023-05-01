@@ -1,0 +1,18 @@
+{
+    "products": [
+        {
+            "name": "jogo de toalha tamanho grande",
+            "category": "cuidados pessoais",
+            "code": "123",
+            "id": "1682893318"
+        },
+        {
+            "name": "sabonte perfumado",
+            "category": "cuidados pessoais",
+            "code": "456",
+            "id": "1682893376"
+        }
+    ],
+    "categories": [],
+    "users": []
+}
